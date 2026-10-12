@@ -1,0 +1,19 @@
+# Raw packet captures
+*.pcap
+*.pcapng
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+*~

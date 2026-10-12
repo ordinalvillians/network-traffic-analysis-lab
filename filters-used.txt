@@ -1,0 +1,13 @@
+# Wireshark Display Filter Reference
+
+dns
+# Display DNS packets.
+
+icmp
+# Display ICMP packets.
+
+tcp
+# Display TCP packets.
+
+tcp.port == 443
+# Display TCP packets using port 443.
